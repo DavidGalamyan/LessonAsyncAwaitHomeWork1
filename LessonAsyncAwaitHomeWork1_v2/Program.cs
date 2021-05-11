@@ -29,7 +29,7 @@ namespace LessonAsyncAwaitHomeWork1_v2
                 tasks.Add(task);
             }
 
-            // Ждем когда все такски сделают свое дело
+            // Ждем когда все таски сделают свое дело
             await Task.WhenAll(tasks);
 
             // После того как удостоверились, что все таски отработали вытаскиваем из них наши Responses
