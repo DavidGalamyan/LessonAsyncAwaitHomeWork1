@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonAsyncAwaitHomeWork1", "LessonAsyncAwaitHomeWork1\LessonAsyncAwaitHomeWork1.csproj", "{86967E15-F23D-4B02-BE4B-A32E38A8F96C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LessonAsyncAwaitHomeWork1", "LessonAsyncAwaitHomeWork1\LessonAsyncAwaitHomeWork1.csproj", "{86967E15-F23D-4B02-BE4B-A32E38A8F96C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonAsyncAwaitHomeWork1_v2", "LessonAsyncAwaitHomeWork1_v2\LessonAsyncAwaitHomeWork1_v2.csproj", "{780D2FF5-ED56-4730-BDEA-A387720A4735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LessonAsyncAwaitHomeWork1_v2", "LessonAsyncAwaitHomeWork1_v2\LessonAsyncAwaitHomeWork1_v2.csproj", "{780D2FF5-ED56-4730-BDEA-A387720A4735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonAsync", "LessonAsync\LessonAsync.csproj", "{BB0BE04D-46B5-48CE-8237-339CFE21C2DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{780D2FF5-ED56-4730-BDEA-A387720A4735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{780D2FF5-ED56-4730-BDEA-A387720A4735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{780D2FF5-ED56-4730-BDEA-A387720A4735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0BE04D-46B5-48CE-8237-339CFE21C2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0BE04D-46B5-48CE-8237-339CFE21C2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0BE04D-46B5-48CE-8237-339CFE21C2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0BE04D-46B5-48CE-8237-339CFE21C2DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
